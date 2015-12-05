@@ -13,7 +13,6 @@
 		267DFB8B1C12B110000244F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 267DFB8A1C12B110000244F4 /* Assets.xcassets */; };
 		267DFB8E1C12B110000244F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 267DFB8C1C12B110000244F4 /* LaunchScreen.storyboard */; };
 		26F2B7271C12B41700E665F4 /* Log.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F2B7261C12B41700E665F4 /* Log.swift */; };
-		26F2B7551C12B70200E665F4 /* NativeAdsPool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F2B7541C12B70200E665F4 /* NativeAdsPool.swift */; };
 		26F2B7571C12B84500E665F4 /* AdvertisingNativeContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F2B7561C12B84500E665F4 /* AdvertisingNativeContext.swift */; };
 		7181D46DEF3C2CCE1F1EA3ED /* libPods-GoogleNativeAdvertisingGlitch.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1544CA57DDF7C02804EC76A1 /* libPods-GoogleNativeAdvertisingGlitch.a */; };
 /* End PBXBuildFile section */
@@ -28,7 +27,6 @@
 		267DFB8D1C12B110000244F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		267DFB8F1C12B110000244F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26F2B7261C12B41700E665F4 /* Log.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Log.swift; sourceTree = "<group>"; };
-		26F2B7541C12B70200E665F4 /* NativeAdsPool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NativeAdsPool.swift; sourceTree = "<group>"; };
 		26F2B7561C12B84500E665F4 /* AdvertisingNativeContext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvertisingNativeContext.swift; sourceTree = "<group>"; };
 		26F2B7581C12B8BB00E665F4 /* GoogleNativeAdvertisingGlitch-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GoogleNativeAdvertisingGlitch-Bridging-Header.h"; sourceTree = "<group>"; };
 		847421075033FFCC68D576DD /* Pods-GoogleNativeAdvertisingGlitch.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoogleNativeAdvertisingGlitch.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GoogleNativeAdvertisingGlitch/Pods-GoogleNativeAdvertisingGlitch.debug.xcconfig"; sourceTree = "<group>"; };
@@ -75,7 +73,6 @@
 				267DFB8C1C12B110000244F4 /* LaunchScreen.storyboard */,
 				267DFB8F1C12B110000244F4 /* Info.plist */,
 				26F2B7261C12B41700E665F4 /* Log.swift */,
-				26F2B7541C12B70200E665F4 /* NativeAdsPool.swift */,
 				26F2B7561C12B84500E665F4 /* AdvertisingNativeContext.swift */,
 				26F2B7581C12B8BB00E665F4 /* GoogleNativeAdvertisingGlitch-Bridging-Header.h */,
 			);
@@ -209,7 +206,6 @@
 				267DFB861C12B110000244F4 /* ViewController.swift in Sources */,
 				267DFB841C12B110000244F4 /* AppDelegate.swift in Sources */,
 				26F2B7271C12B41700E665F4 /* Log.swift in Sources */,
-				26F2B7551C12B70200E665F4 /* NativeAdsPool.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
