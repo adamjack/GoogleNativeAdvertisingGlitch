@@ -13,10 +13,10 @@
 
 /* Begin PBXFileReference section */
 		10DF0F9E529C7F4D265F0A1811E9DF92 /* libPods-GoogleNativeAdvertisingGlitch.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoogleNativeAdvertisingGlitch.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		22026F4BB223D5838C00EEA7AA155C6E /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMobileAds.framework; path = "GoogleMobileAdsSdkiOS-7.6.0/GoogleMobileAds.framework"; sourceTree = "<group>"; };
 		3A9B24105BB02817303E18B7C930CF01 /* Pods-GoogleNativeAdvertisingGlitch.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GoogleNativeAdvertisingGlitch.release.xcconfig"; sourceTree = "<group>"; };
 		4CD6B920A01E4B88FAF224998DD7CC55 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		83A4FC5F8FAEC32D9C4EDD48E70B12AD /* Pods-GoogleNativeAdvertisingGlitch.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GoogleNativeAdvertisingGlitch.debug.xcconfig"; sourceTree = "<group>"; };
-		857EB3AB5268647C5C1A4FB96BA47C84 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMobileAds.framework; path = "GoogleMobileAdsSdkiOS-7.5.2/GoogleMobileAds.framework"; sourceTree = "<group>"; };
 		AACEA49E2D90102C624FFC5591D99109 /* Pods-GoogleNativeAdvertisingGlitch-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GoogleNativeAdvertisingGlitch-acknowledgements.plist"; sourceTree = "<group>"; };
 		C05D4893BFBA9131099F711F2C89F7FE /* Pods-GoogleNativeAdvertisingGlitch-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GoogleNativeAdvertisingGlitch-dummy.m"; sourceTree = "<group>"; };
 		C88113A79685B4EFEE7BAD12896829F7 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -104,7 +104,7 @@
 		E9A0A2A867AC99E6879D90C7A3CABFA4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				857EB3AB5268647C5C1A4FB96BA47C84 /* GoogleMobileAds.framework */,
+				22026F4BB223D5838C00EEA7AA155C6E /* GoogleMobileAds.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

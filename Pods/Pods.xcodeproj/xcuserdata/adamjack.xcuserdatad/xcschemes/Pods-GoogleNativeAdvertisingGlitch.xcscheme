@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5FFC3F8EA377B141DF07D679"
+               BlueprintIdentifier = "73B144BC3EC5B96FB9EAC4A7"
                BuildableName = "libPods-GoogleNativeAdvertisingGlitch.a"
                BlueprintName = "Pods-GoogleNativeAdvertisingGlitch"
                ReferencedContainer = "container:Pods.xcodeproj">

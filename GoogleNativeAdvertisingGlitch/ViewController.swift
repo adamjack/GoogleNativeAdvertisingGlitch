@@ -57,7 +57,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             contexts.append(context)
         }
         
-        Log.sharedInstance.logInformation("Ads requested...")
+        Log.sharedInstance.logInformation("Ads requested via [\(GADRequest.sdkVersion())] ...")
 
         // Code commented out as not needed to reproduce symptom...
         /*
